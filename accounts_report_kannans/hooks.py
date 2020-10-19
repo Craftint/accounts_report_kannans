@@ -3,9 +3,9 @@ from __future__ import unicode_literals
 from . import __version__ as app_version
 
 app_name = "accounts_report_kannans"
-app_title = "kannans"
+app_title = "accounts_report_kannans"
 app_publisher = "craft"
-app_description = "kannans"
+app_description = "accounts_report_kannans"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "shifapm25@gmail.com"

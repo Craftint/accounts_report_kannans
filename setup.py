@@ -10,7 +10,7 @@ from accounts_report_kannans import __version__ as version
 setup(
 	name='accounts_report_kannans',
 	version=version,
-	description='kannans',
+	description='accounts_report_kannans',
 	author='craft',
 	author_email='shifapm25@gmail.com',
 	packages=find_packages(),
