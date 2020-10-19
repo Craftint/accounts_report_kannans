@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include accounts_report_kannans *.css
+recursive-include accounts_report_kannans *.csv
+recursive-include accounts_report_kannans *.html
+recursive-include accounts_report_kannans *.ico
+recursive-include accounts_report_kannans *.js
+recursive-include accounts_report_kannans *.json
+recursive-include accounts_report_kannans *.md
+recursive-include accounts_report_kannans *.png
+recursive-include accounts_report_kannans *.py
+recursive-include accounts_report_kannans *.svg
+recursive-include accounts_report_kannans *.txt
+recursive-exclude accounts_report_kannans *.pyc
